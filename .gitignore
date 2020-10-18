@@ -1,0 +1,4 @@
+node_modules
+README.md
+.travis.yml
+tmp/

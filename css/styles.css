@@ -1,0 +1,41 @@
+body {
+    /* margin: 0; */
+	font-family: 'Montserrat', sans-serif;
+}
+  
+  section {
+    padding: 150px 0;
+  }.navbar-dark .navbar-nav .nav-link {color: #c4602c;
+  }
+  a {
+      color: #c4602c;
+  }
+  a:hover {
+      color: #345c7b;
+  }
+header.hero {
+	background-image: url(../images/Hero.jpg);
+	height: 720px;
+	min-height: 200px;
+	background-size: cover;
+    background-repeat: no-repeat;
+    padding: 156px 0 100px;
+    position: relative;
+    color: #F5F5F5;
+    }
+
+h1.logo_text {
+    font-family: 'Ovo', serif;
+    font-size:72px;
+}
+h2,h4 {
+    margin-bottom: 2rem;
+	font-family: "Ovo";
+	color: #717171;
+}
+.container.about{
+    text-align: center;
+}
+.row.map {
+    margin-top: 70px;
+}
